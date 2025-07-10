@@ -54,7 +54,7 @@ Este proyecto fue creado con fines educativos. Si deseas contribuir con ejemplos
 
 ## 🧑‍💻 Autor
 
-**Sebastián Urrego**  
+**Sebastian Urrego**  
 📫 GitHub: [@Sebas1020h](https://github.com/Sebas1020h)
 
 ---
